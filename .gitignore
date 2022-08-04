@@ -1,0 +1,10 @@
+#that
+__pycache__/
+.idea/
+
+outputs/
+*.hdf5
+*.json
+*.npy
+*.db
+*.pth
