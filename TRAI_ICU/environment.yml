@@ -1,0 +1,20 @@
+name: CarinaNet
+channels:
+  - conda-forge
+  - pytorch
+  - anaconda
+dependencies:
+  - numpy==1.21.1
+  - opencv==4.5
+  - openpyxl==3.0
+  - pandas==1.4.1
+  - pillow== 9.2
+  - pycocotools==2.0.4
+  - python=3.8
+  - pytorch=1.10
+  - scikit-image==0.18.3
+  - scikit-learn==1.1.1
+  - scipy==1.7.3
+  - matplotlib==3.5.2
+  - torchvision=0.11
+    
